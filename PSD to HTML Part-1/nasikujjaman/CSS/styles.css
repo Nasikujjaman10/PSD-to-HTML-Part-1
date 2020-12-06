@@ -1,0 +1,619 @@
+
+html{
+	scroll-behavior:smooth;
+}
+body{
+	background:#0E0E0E;
+	font-family: 'Titillium Web', sans-serif;
+}
+
+
+.logo {
+    margin-left: -8px;
+    margin-top: 1px;
+}
+
+li {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+}
+/* header section start*/
+.header {
+    margin: auto;
+    max-width: 1250px;
+}
+.submenu{
+    float: right;
+}
+
+.submenu li{
+   display:inline-block;
+}
+.header {
+    margin: auto;
+    max-width: 1250px;
+  
+}
+
+.container{
+	background: #87509C;
+	width: 1446px;
+	margin-left: 73px;
+	height: 600px;
+}
+
+img {
+    margin: 68px 0px;
+}
+ul.submenu {
+    margin-top: -105px;
+  overflow: hidden;
+  position: sticky;
+	 top: 0;margin: 0;
+  padding: 0;
+}
+ul.submenu li a{
+	color:white;
+	text-align:center;
+	margin-left: -1px;
+	padding: 20px;
+	border-radius: 42px;
+	line-height: 41px;
+}
+a {
+    margin-left: 28px;
+    font-size: 22px;
+    /* font-weight: 100; */
+}
+li.active {
+    background: #643A79;
+    border-radius: 6px;
+}
+
+span {
+    margin-left: 52px;
+}
+
+.tittle1 {
+    color: white;
+    margin-left: 119px;
+    margin-top: 73px;
+}
+
+
+.butt button {
+    background: #EB7D4B;
+    padding: 23px 59px;
+    margin-left: 330px;
+    margin-top: 44px;
+    font-size: 17px;
+    color:white;
+    border: none;
+	border-bottom: 5px solid #C86A40;
+	    border-radius: 29px;
+}
+
+.tittle {margin-left: 121px;
+}
+h1 {
+    font-size: 42px;
+    line-height: 50px;
+    margin-left: -78px;
+}
+
+/* header section finish*/
+
+
+/*Services Section Strart*/
+
+.services-section{
+	background: #17C2A4;
+	width: 1390px;
+	margin-left: 73px;
+	height: 750px;
+}
+
+h6 {
+    width: 90px;
+    height: 4px;
+    background: #14A58C;
+    margin-left: 182px;
+    margin-bottom: 18px;
+}
+.title-section {
+    margin-left: 415px;
+    margin-top: 85px;
+}
+
+.services-section {
+    padding: 28px;
+}
+
+.title-section {
+    color: white;
+}
+
+.parra {
+    width: 654px;
+    margin-left: -59px;
+    letter-spacing: 1px;
+    font-size: 18px;
+}
+.parr {
+    text-align: center;
+}
+
+.SER {
+    margin-left: -16px;
+    word-spacing: 3px;
+    letter-spacing: 5px;
+    font-size: 27px;
+}
+
+.devider {
+    margin: 10px;
+    
+}
+.image-section {
+    color: white;
+    text-align: center;
+    margin-left: 139px;
+}
+.col.span_1_of_4 {
+    width: 209px;
+}
+
+.col.span_1_of_4 {
+    width: 204px;
+}
+
+.col.span_1_of_4 {
+    width: 195px;
+    margin-left: 103px;
+}
+
+h3 {
+    font-size: 26px;
+    text-transform: uppercase;
+    margin-bottom: 16px;
+}
+
+p {
+    color: #E0F7F3;
+}
+img {
+    margin-left: 23px;
+}
+/*Services Section Finish*/
+
+/*team section start*/
+.team-section {
+    background: #E7F1F8;
+    width: 1318px;
+    margin-left: 73px;
+    height:887px;
+    padding: 4em;
+}
+.team-header h2{
+	color:#3C4761;
+	
+}
+.team-parra p{
+	color:#3C4761;
+	font-size: 19px;
+    font-weight: 600;
+}
+.team-devider {
+    background: #C8D9E5;
+    width: 86px;
+    height: 4px;
+    margin-left: 38rem;
+    margin-top: -22px;
+    margin-bottom: 19px;
+}
+.team-title {
+    text-align: center;
+    margin-top: 2em;
+}
+.team-header{
+	word-spacing: 3px;
+    letter-spacing: 5px;
+    font-size: 27px;
+}
+.about p{
+ margin-left: 1em;
+ width: 204px;
+ color: #6A7489;
+}
+ul.icon li{
+display:inline-block;	
+}
+.team-icone {
+    width: 210px;
+}
+img.resize {height: 193px;width: 185px;border-radius: 50%;}
+img.resize1
+ {border-radius: 50%;width: 196px;height: 191px;}
+
+img.resize2 {
+    border-radius: 50%;
+    width: 221px;
+    height: 201px;
+}
+
+img.resize3 {
+    border-radius: 50%;
+    width: 204px;
+    height: 204px;
+}
+.team-parra {
+    width: 83em;
+    word-spacing: 3px;
+  
+}
+
+h2 {}
+
+.name {
+    color: #27283D;
+    font-size: 17px;
+    margin-top: -58px;
+}
+
+.col.span_1_of_4 {
+    width: 231px;
+    margin-left: 73px;
+}
+.team-image {
+    margin-left: 5rem;
+}
+.dessignation {
+    color: #6cb7d2;
+    font-size: 19px;
+    margin-bottom: 19px;
+    margin-top: -21px;
+}
+.about {
+    margin-bottom: 34px;
+}
+.control {
+    text-align: center;
+}
+ul.icon.nature {
+    margin-top: -11px;
+}
+
+/*team section finish*/
+
+/* skill section start*/
+
+.skill-section{
+ background:    gray;
+ width: 1446px;
+ margin-left: 73px;
+ height: 600px;
+ padding: 4em;
+}
+
+/* skill section finish*/
+
+
+/*Portfolio Section start*/
+.portfolio-section{
+	background:#FFDD99;
+	width: 1414px;
+	margin-left: 73px;
+	height: 96rem;
+	padding: 1em;
+}
+.port-header h2 {
+    word-spacing: -3px;
+    letter-spacing: 3px;
+    font-size: 38px;
+    color: #393939;
+    font-family: Verdana, sans-serif;
+}
+.port-title {
+    text-align: center;
+    width: 472px;
+    margin-left: 28em;
+     margin-top: 6em; 
+}
+
+.port-parra p {color: #393939;word-spacing: 0px;font-size: 19px;margin-left: -30px;width: 28em;font-weight: 600;font-family: font-family: 'Titillium Web', sans-serif;}
+
+.portfolio-bellow {
+    text-align: center;
+}
+.portfolio-laptop1 img{
+	
+margin-left: 145px;
+}
+
+.portfolio-laptop2 img{
+	
+margin-right: 74px;
+}
+
+.portfolio-laptop3 img{
+	
+margin-left: 121px;
+}
+
+.portfolio-laptop4 img{
+	
+margin-right: 100px;
+}
+.laptop-tag p{
+	color:#534F46;
+}
+.port-button1 {
+	 background :#FFFFFF;
+}
+.port-button12 {
+	background:#EBC985;
+}
+.laptop-tag p{
+	margin-left:30px;
+}
+p.laptop-tag1 {
+    margin-left: 10em;
+    color: #393939;
+    /* font-size: 25px; */
+}
+p.laptop-tag2 {
+    margin-right: 6em;
+}
+
+p.laptop-tag3 {
+    margin-left: 9em;
+}
+
+p.laptop-tag4 {
+    margin-right: 6em;
+}
+
+.port-devider {
+    margin-top: 45px;
+}
+
+button.portfolio-load-button {background: #17c2a4;margin-right: 34em;margin-left: 36em;padding: 23px 60px;border-right: 2px solid green;color: #FFFFFF;border-radius: 20px;border-color: #289c88;border-bottom: 5px solid #14a58c;font-family:  sans-serif;margin-top: 2em;}
+div.portpolio-btnfull {
+    margin-top: 12px;
+    margin-right: -13px;
+}
+.port-parra {
+    width: 37em;
+}
+.port-button1212 {
+	 boder-radius: 10px;
+	 background :#EBC985;
+	 margin-top: 36px;
+	 padding: 9px 23px;
+	 border-radius: 6px;
+	 border: 2px solid #FFDD99;
+	 font-size: 19px;
+color:#515151;}
+.port-button1{
+	    background: #FFFFFF;
+    margin-top: 36px;
+    padding: 9px 23px;
+    border-radius: 6px;
+    border: 2px solid #FFDD99;
+    font-size: 19px;
+    color: #515151;
+}
+h3.port-devider21 {
+    height: 4px;
+    width: 88px;
+    background: #E5C37F;
+    margin-left: 192px;
+    margin-top: -27px;
+}
+p.laptop-tag {color: #393939;margin-top: -54px;margin-left: 90px;font-size: 19px;font-weight: bolder;text-transform: uppercase;}
+p.laptop-tag2{color: #393939;font-size: 18px;font-weight: bolder;margin-top: -54px;text-transform: uppercase;}
+.portfolio-laptop4 {
+    margin-top: -473px;
+    margin-left: 109px;
+}
+.portfolio-laptop3 {
+    margin-left: -151px;
+}
+
+/*Portfolio Section Finish*/
+
+
+/*Testimonial Section Start*/
+
+.testimonial-secton{
+	background-color:#D74680;
+	height: 957px;
+	width: 1446px;
+	paddding: 50px;
+	padding: 1px;
+	margin-left: 72px;
+}
+
+.testimonial-title {text-align: center;margin-top: 106px;}
+
+.testimonial-header {
+    color: #FFFFFF;
+    font-weight: bold;
+    letter-spacing: 4px;
+    font-size: 25px;
+}
+
+.testimonial-devider {
+    width: 90px;
+    height: 4px;
+    margin-top: -22px;
+    margin-left: 42em;
+    background: #B73C6D;
+}
+img.client-image.client-more-image {
+    width: 145px;
+    height: 129px;
+    float: left;
+}
+img.client-image.client-more-image.floating-left {
+    float: left;
+}
+img.client-image.floating-left {
+    float: left;
+}
+.cust-sat-image.col.span_1_of_4.box {
+    float: revert;
+}
+img.client-image {
+    border-radius: 50%;
+    width: 127px;
+}
+.testimonial-parra {
+    margin-left: -1em;
+    letter-spacing: 0px;
+    font-size: 19px;
+}
+.cust-sat-about {  margin-left: 14em;
+    margin-top: 5em;
+}
+.cust-sat-sec {
+    margin-left: 82px;
+}
+.cust-sat-designation {
+    color: #EFA18F;
+    font-size: 20px;
+}
+.cust-sat-para {
+    width: 385px;
+    font-size: 21px;
+}
+.cust-sat-name {
+    text-transform: uppercase;
+    margin-bottom: -28px;
+}
+/*Testimonial Section Finish*/
+
+/*contact section start*/
+
+.contact-section{background:#3C5499;width:1447px;margin-left: 71px;padding: 1px;height: 847px;}
+ 
+.contact-control {
+    margin-top: 96px;
+    text-align: center;
+}
+.contact-devider {
+    width: 90px;
+    height: 4px;
+    margin-top: -22px;
+    margin-left: 42em;
+    background: #2A3D76;
+}
+ 
+ .contact-header {
+    color: #FFFFFF;
+    font-weight: bold;
+    letter-spacing: 4px;
+    font-size: 26px;
+}
+
+.contact-par {
+    margin-left: -1em;
+    letter-spacing: 0px;
+    font-size: 18px;
+    margin-bottom: 76px;
+}
+
+input#contact-name {
+    background: #273A71;
+    /* padding: 14px 62px; */
+    height: 22px;
+    padding: 17px;
+    width: 389px;
+    font-size: 19px;
+    border-radius: 7px;
+    border: none;
+    margin-right: 4em;    :;
+    border-radius: 2px solid green;
+}
+
+input#contact-email {
+    background: #273A71;
+    height: 0px;
+    padding: 28px;
+    font-size: 19px;
+    border-radius: 7px;
+    width: 375px;
+    border: none;
+}
+
+textarea.text {background: #273A71;
+    height: 187px;
+    padding: 22px;
+    margin-top: 2em;
+    border-radius: 7px;
+    border: none;
+    width: 67em;
+}
+
+input#contact-name::placeholder { margin-left:30px;
+color: white;
+}
+input#contact-email::placeholder{
+color: white;	
+}
+textarea.text::placeholder{
+color: white;	
+}
+button.contact-btn {
+    background: #30BAE7;
+    border: none;
+    border-radius: 3px;
+    color: white;
+    padding: 22px 72px;
+    font-size: 17px;
+    font-weight: 600;
+    margin-top: 2pc;
+    opacity: 1;
+    border-bottom: 4px solid #299EC5;
+
+}
+.footer-section{width: 1449px;height:127px;background:#344B8E;margin-left: 71px;
+}
+
+
+ /*contact section finish*/
+
+/*Contact Section start*/
+
+ul.footer-social-icons li {
+    float: left;
+}
+
+a.ft-col-chng {
+    color: #fff;
+    font-size: 26px;
+}
+.social-icons-wrapper {
+    padding: 27px;
+    margin-left: 23em;
+}
+a.ft-col-chng.twitt {
+    color: #30BAE7;
+}
+/*Contact Section finish*/
+
+
+/*sticky nav bar creation*/
+#menu {
+  background-color: #9c934d91;
+  width: 57em;
+  margin-left: 22em;
+}
+.sticky {
+  position: fixed;
+  top:0;
+  width: 100%;
+}
